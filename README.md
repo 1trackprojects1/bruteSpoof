@@ -17,7 +17,7 @@ First you need to install a few modules to prevent errors like this that will pr
 ```
 root@trackprojects:~# python console.py 
 Traceback (most recent call last):
-  File "xLib.py", line 14, in <module>
+  File "console.py", line 14, in <module>
     import urllib
 ImportError: No module named urllib
 ```
